@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 Matthew Ryan, here!
+
+- 🪴 I’m currently learning TDD and Agile software team practices and mob programming with my mentor.
+- 🥦 I’m looking to collaborate on java projects using TDD and more.
+- 💬 Ask me about my crystals.
+- 🌊 How to reach me: mattg1827@gmail.com
+- 🐉 Avid creative artist, photographer, and adventurer. 
+- ⚡ Fun fact: I was bit by a swan once while I was feeding it and it mistook my big toe for cornmeal.
+- Follow me to see what I am building! 
 
 <!--
 **kundaliniyoga/kundaliniyoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
